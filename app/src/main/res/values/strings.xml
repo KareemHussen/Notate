@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="archived">Archived</string>
+    <string name="language">Language</string>
+    <string name="arabic">Arabic</string>
+    <string name="theme">Theme</string>
+    <string name="dark">Dark</string>
+    <string name="based_on_system">Based on System</string>
+    <string name="light">Light</string>
+    <string name="english">English</string>
+    <string name="search_your_notes">Search Your Notes</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="my">My</string>
+    <string name="menu_notes">Notes</string>
+    <string name="notes">Notes</string>
+    <string name="setting">setting</string>
+    <string name="set">Set</string>
+    <string name="Setting">Setting</string>
+</resources>

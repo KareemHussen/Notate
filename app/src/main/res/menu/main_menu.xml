@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/notes_Fragment"
+        android:title="@string/menu_notes"
+        android:icon="@drawable/black_bulb"
+        />
+
+    <item
+        android:id="@+id/archived_Fragment"
+        android:icon="@drawable/ic_outline_archive_24"
+        android:title="@string/archived"/>
+
+    <item
+        android:id="@+id/setting_Fragment2"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/setting"/>
+
+
+
+
+</menu>

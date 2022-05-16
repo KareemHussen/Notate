@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مذكراتي</string>
+    <string name="archived">ارشيف</string>
+    <string name="language">اللغه</string>
+    <string name="arabic">العربيه</string>
+    <string name="theme">السمة</string>
+    <string name="dark">الغامق</string>
+    <string name="based_on_system">بناء علي نظام الهاتف</string>
+    <string name="light">فاتح</string>
+    <string name="english">الانجليزيه</string>
+    <string name="search_your_notes">ابحث في ملاحظاتك</string>
+    <string name="title">العنوان</string>
+    <string name="note">الملاحظات</string>
+    <string name="my">" "</string>
+    <string name="notes">ملاحظاتي</string>
+    <string name="menu_notes">الملاحظات</string>
+    <string name="setting">الاعدادات</string>
+    <string name="set">ضبط</string>
+    <string name="Setting">الاعدادات</string>
+</resources>

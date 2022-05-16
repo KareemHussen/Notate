@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/notes_Fragment">
+
+    <fragment
+        android:id="@+id/notes_Fragment"
+        android:name="com.example.notate.uii.fragments.Notes_Fragment"
+        android:label="fragment_notes"
+        tools:layout="@layout/fragment_notes" >
+        <action
+            android:id="@+id/action_notes_Fragment_to_detailes_Fragment"
+            app:destination="@id/detailes_Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailes_Fragment"
+        android:name="com.example.notate.uii.fragments.Details_Fragment"
+        android:label="fragment_detailes"
+        tools:layout="@layout/fragment_detailes" >
+        <argument
+            android:name="note"
+            app:argType="com.example.notate.DB.NoteModel" />
+        <action
+            android:id="@+id/action_detailes_Fragment_to_notes_Fragment"
+            app:destination="@id/notes_Fragment" />
+        <action
+            android:id="@+id/action_detailes_Fragment_to_archived_Fragment"
+            app:destination="@id/archived_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/archived_Fragment"
+        android:name="com.example.notate.uii.fragments.Archived_Fragment"
+        android:label="fragment_archived"
+        tools:layout="@layout/fragment_archived" >
+        <action
+            android:id="@+id/action_archived_Fragment_to_detailes_Fragment"
+            app:destination="@id/detailes_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/setting_Fragment2"
+        android:name="com.example.notate.uii.fragments.Setting_Fragment"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
+</navigation>
