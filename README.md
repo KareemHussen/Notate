@@ -36,6 +36,8 @@ Notate is a sample Android project to keep your notes and put reminder on it bas
   <img width="240" height="500" src="ScreenShot/6.png">
   <img width="240" height="500" src="ScreenShot/7.png">
   <img width="240" height="500" src="ScreenShot/8.png">
+  <img width="240" height="500" src="ScreenShot/11.png">
+  <img width="240" height="500" src="ScreenShot/12.png">
 </p>
 
 ## LICENSE
