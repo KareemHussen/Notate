@@ -7,29 +7,35 @@ Notate is a sample Android project to keep your notes and put reminder on it bas
   </br>
   </br>
   
-![HeaderImage](ScreenShot/8.png)
-![HeaderImage](ScreenShot/9.png)
-
+<p align = "center" >
+  <img src="ScreenShot/9.png">
+  <img src="ScreenShot/10.png"> 
+</p>
 
 ## Features
 * 100% Kotlin
-* RestApi
-* MVVM architecture
+* Notifications
+* BroadCast
+* MVVM Architecture
+* Repository Design Pattern 
 * Kotlin Coroutines
-* Using Just 2 Activies
+* Using Single Activity Architecture
 * Room
-* Pagination
-* Material Design Components (BottomSheet , TabLayout , SnakBar , etc...)
+* Material Design Components (BottomSheet , SnakBar , etc...)
+* Support Multiple Languages Android ( English and Arabic)
+* Support Multiple Screen Sizes
+* DarkMode
 
 ## ScreenShots
 <p align = "left" >
-  <img width="240" height="500" src="ScreenShots/1.png">
-  <img width="240" height="500"  src="ScreenShots/2.png"> 
-  <img width="240" height="500" src="ScreenShots/3.png"> 
-  <img width="240" height="500" src="ScreenShots/4.png">
-  <img width="240" height="500"  src="ScreenShots/5.png"> 
-  <img width="240" height="500" src="ScreenShots/6.png">
-  <img width="240" height="500" src="ScreenShots/7.png">
+  <img width="240" height="500" src="ScreenShot/1.png">
+  <img width="240" height="500" src="ScreenShot/2.png"> 
+  <img width="240" height="500" src="ScreenShot/3.png"> 
+  <img width="240" height="500" src="ScreenShot/4.png">
+  <img width="240" height="500" src="ScreenShot/5.png"> 
+  <img width="240" height="500" src="ScreenShot/6.png">
+  <img width="240" height="500" src="ScreenShot/7.png">
+  <img width="240" height="500" src="ScreenShot/8.png">
 </p>
 
 ## LICENSE
